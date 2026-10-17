@@ -6,3 +6,4 @@ Final demonstration project of the DevOps class, Leve
 2. create logout
 3. create sign up 
 4. create rememberMe
+5. create forget password
