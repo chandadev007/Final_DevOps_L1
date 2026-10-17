@@ -3,3 +3,4 @@ Final demonstration project of the DevOps class, Leve
 
 # Merge activity
 1. create login
+2. create logout
